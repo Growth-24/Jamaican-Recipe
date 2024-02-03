@@ -12,6 +12,8 @@ HTML header tags, Unordered list, Ordered list, Paragraph tag and Image tag.
 
 # View Project here: 
 
+growth-24.github.io/Jamaican-Recipe/
+
 # Tech Stack
 
 Visual Studio Code
