@@ -16,5 +16,4 @@ growth-24.github.io/Jamaican-Recipe/
 
 # Tech Stack
 
-Visual Studio Code
-Xubuntu Virtual Machine
+Visual Studio Code, Xubuntu Virtual Machine
